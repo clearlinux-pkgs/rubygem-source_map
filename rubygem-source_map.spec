@@ -4,7 +4,7 @@
 #
 Name     : rubygem-source_map
 Version  : 3.0.1
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/downloads/source_map-3.0.1.gem
 Source0  : https://rubygems.org/downloads/source_map-3.0.1.gem
 Summary  : No detailed summary available
